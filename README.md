@@ -1,5 +1,5 @@
 # CodeAlpha_IrisFlowerClassification
-internship project based on Data Science
+task 1 based on Data Science
 
 
 # Iris Flower Classification
