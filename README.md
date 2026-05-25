@@ -1,4 +1,4 @@
-# CodeAlpha_IrisFlowerClassification
+# IrisFlower_Classification
 task 1 based on Data Science
 
 
